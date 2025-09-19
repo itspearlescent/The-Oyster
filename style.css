@@ -17,3 +17,45 @@ div {
   padding: 30px;
   margin: 20px 0;
 }
+
+#cd1 {
+  transform: translate(100px, 100px);
+  width: 300px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+#single {
+  font-size: 20px;
+  color: white;
+  text-align: left;
+  transform: translate(200px, 600px);
+}
+
+#cd2 {
+  transform: translate(300px, 100px);
+  width: 300px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+#ep {
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  transform: translate(-10px, 550px);
+}
+
+#cd3 {
+  transform: translate(500px, 100px);
+  width: 300px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+#album {
+  font-size: 20px;
+  color: white;
+  text-align: right;
+  transform: translate(-200px, 500px);
+}
