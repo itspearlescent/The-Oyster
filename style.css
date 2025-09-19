@@ -1,10 +1,21 @@
 body {
-  background-color: #f3f2ed;
-  font-family: Arial, sans-serif;
-  color: #333;
+  margin: 0;
+  background-image: url('beach.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+  overflow-x: hidden;
 }
 
-h1 {
-  color: #0077cc;
-  text-align: center;
+div {
+  top: -20px;
+  opacity: 0.75;
+  position: absolute;
+  background-color: rgb(183, 216, 222);
+  width: 100%;
+  padding: 30px;
+  margin: 20px 0;
+  z-index: 10;
 }
