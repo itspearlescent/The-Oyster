@@ -17,6 +17,11 @@ div {
   padding: 30px;
   margin: 20px 0;
 }
+div a {
+  float: right;
+  justify-content: space-evenly;
+ position: absolute; left: 1250px; font-size: 32px; color: rgb(103, 137, 148); font-family: 'Baskerville'; text-decoration: none;
+}
 
 #cd1 {
   transform: translate(100px, 100px);
